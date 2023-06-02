@@ -12,8 +12,6 @@ pretix
 .. image:: https://codecov.io/gh/pretix/pretix/branch/master/graph/badge.svg
    :target: https://codecov.io/gh/pretix/pretix
 
-
-
 Reinventing ticket presales, one ticket at a time.
 
 Project status & release cycle
